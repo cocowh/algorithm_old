@@ -5,10 +5,10 @@
 ### 题目列表
 [算法](https://leetcode-cn.com/problemset/algorithms/)
 
-题号 | 题名 | 难度
+题号(原题链接) | 题名（解答链接） | 难度
 :-: | :-: | :-:
-[1](https://github.com/cocowh/algorithm/tree/master/0001_twoSum) | [两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单
-[2](https://github.com/cocowh/algorithm/tree/master/0002_addTwoNumbers) | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/submissions/) | 中等
+[1](https://leetcode-cn.com/problems/two-sum/) | [两数之和](https://github.com/cocowh/algorithm/tree/master/0001_twoSum) | 简单
+[2](https://leetcode-cn.com/problems/add-two-numbers/submissions/) | [两数相加](https://github.com/cocowh/algorithm/tree/master/0002_addTwoNumbers) | 中等
 
 
 

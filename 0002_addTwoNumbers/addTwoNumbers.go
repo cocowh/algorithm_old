@@ -14,7 +14,7 @@ type ListNode struct {
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	retListNode := &ListNode{}  //结果链表
-	cur := retListNode 			//当前节点
+	curNode := retListNode 			//当前节点
 	carry := 0					//进位
 
 	for  l1 != nil || l2 != nil || carry > 0  { //未计算完或者有进位
@@ -29,13 +29,13 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 		}
 		carry = sum / 10		//计算进位
 		val := sum % 10			//计算当前值
-		cur.Val = val       	//设置当前节点值
+		curNode.Val = val       	//设置当前节点值
 		if l1 != nil || l2 != nil || carry > 0 { //未计算完或者有进位新增下一个节点
-			cur.Next = &ListNode{}
+			curNode.Next = &ListNode{}
 		} else { //否则指向nil
-			cur.Next = nil
+			curNode.Next = nil
 		}
-		cur = cur.Next			//当前节点指向下一个节点
+		curNode = curNode.Next			//当前节点指向下一个节点
 	}
 	return retListNode
 }
