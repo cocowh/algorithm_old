@@ -37,7 +37,6 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 		}
 		cur = cur.Next			//当前节点指向下一个节点
 	}
-
 	return retListNode
 }
 

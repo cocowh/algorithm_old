@@ -8,5 +8,7 @@
 题号 | 题名 | 难度
 :-: | :-: | :-:
 [1](https://github.com/cocowh/algorithm/tree/master/0001_twoSum) | [两数之和](https://leetcode-cn.com/problems/two-sum/) | 简单
+[2](https://github.com/cocowh/algorithm/tree/master/0002_addTwoNumbers) | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/submissions/) | 中等
+
 
 
