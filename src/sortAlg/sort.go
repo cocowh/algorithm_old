@@ -1,18 +1,18 @@
-package main
+package sortAlg
 
 import (
 	"fmt"
 )
 
-func main()  {
+func SortMain() {
 	var n int
 	fmt.Println("输入数组大小（n）：")
 	fmt.Scanf("%d", &n)
 	var arr []int
 	fmt.Printf("请依次输入%d个数（中间空格或换行）\n",n)
 	for index := 0; index < n; index++ {
-		var temp int		
-		fmt.Scanf("%d", &temp)		
+		var temp int
+		fmt.Scanf("%d", &temp)
 		arr = append(arr, temp)
 	}
 	fmt.Printf("输入的数组为%v\n", arr)
@@ -40,7 +40,7 @@ func InsertionSort(arr []int) {
 			newArr[j] = newArr[j - 1]
 		}
 		newArr[j] = temp
-		fmt.Printf("第%d次插入排序结果为：%v\n", i, newArr)	
+		fmt.Printf("第%d次插入排序结果为：%v\n", i, newArr)
 	}
 }
 
@@ -57,7 +57,7 @@ func MergeSort(arr []int) []int {
 }
 //合并
 func merge(left, right []int)(result []int)  {
-	l, r := 0, 0 
+	l, r := 0, 0
 	for l < len(left) && r < len(right) {
 		if left[l] < right[r] {
 			result = append(result, left[l])
@@ -86,11 +86,12 @@ func BubbleSort(arr []int) {
 				newArr[j] = newArr[j - 1]
 				newArr[j - 1] = key
 				flag = true
-			}  
+			}
 		}
 		if !flag {
 			break
 		}
-		fmt.Printf("第%d次冒泡排序结果为：%v\n", i, newArr)		
+		fmt.Printf("第%d次冒泡排序结果为：%v\n", i, newArr)
 	}
 }
+
