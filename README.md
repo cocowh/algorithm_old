@@ -12,6 +12,6 @@
 [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [无重复字符的最长子串](https://github.com/cocowh/algorithm/tree/master/0003_lengthOfLongestSubstring) | 中等
 [4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [两个排序数组的中位数](https://github.com/cocowh/algorithm/tree/master/0004_findMedianSortedArrays) | 困难
 [5](https://leetcode-cn.com/problems/zigzag-conversion/) | [最长回文子串](https://github.com/cocowh/algorithm/tree/master/0005_longestPalindrome) | 中等 
-[6](https://leetcode-cn.com/problems/zigzag-conversion/) | []() | 中等
+[6](https://leetcode-cn.com/problems/zigzag-conversion/) | [Z字形变换](https://github.com/cocowh/algorithm/tree/master/0006_convert) | 中等
 
 
