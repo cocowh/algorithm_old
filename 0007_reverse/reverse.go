@@ -3,17 +3,17 @@ package _007_reverse
 import "math"
 
 func reverse(x int) int {
-	rev := 0
+	ret := 0
 	for x != 0 {
-		pop := x % 10
+		rem := x % 10 //求余
 		x /= 10
-		if rev > math.MaxInt32/10 || (rev == math.MaxInt32/10 && pop > 7) {
+		if ret > math.MaxInt32/10 || (ret == math.MaxInt32/10 && rem > 7) {
 			return 0
 		}
-		if rev < math.MinInt32/10 || (rev == math.MinInt32/10 && pop < -8) {
+		if ret < math.MinInt32/10 || (ret == math.MinInt32/10 && rem < -8) {
 			return 0
 		}
-		rev = rev*10 + pop
+		ret = ret*10 + rem
 	}
-	return rev
+	return ret
 }
