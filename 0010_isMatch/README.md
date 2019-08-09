@@ -69,6 +69,7 @@ func isMatch(s string, p string) bool {
 	}
 }
 ```
+能力有限，后续再来理解其他解法。
 
 优化解法：
 
