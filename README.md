@@ -26,3 +26,4 @@
 [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](https://github.com/cocowh/algorithm/tree/master/0017_letterCombinations) | 中等
 [18](https://leetcode-cn.com/problems/4sum/) | [四数之和](https://github.com/cocowh/algorithm/tree/master/0018_fourSum) | 中等
 [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [删除链表的倒数第N个节点](https://github.com/cocowh/algorithm/tree/master/0019_removeNthFromEnd) | 中等
+[20](https://leetcode-cn.com/problems/valid-parentheses/) | [有效的括号](https://github.com/cocowh/algorithm/tree/master/0020_isValid) | 简单
