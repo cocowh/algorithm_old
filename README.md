@@ -28,3 +28,7 @@
 [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [删除链表的倒数第N个节点](https://github.com/cocowh/algorithm/tree/master/0019_removeNthFromEnd) | 中等
 [20](https://leetcode-cn.com/problems/valid-parentheses/) | [有效的括号](https://github.com/cocowh/algorithm/tree/master/0020_isValid) | 简单
 [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://github.com/cocowh/algorithm/tree/master/0021_mergeTwoLists) | 简单
+[22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/cocowh/algorithm/tree/master/0022_generateParenthesis) | 中等
+[23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/cocowh/algorithm/tree/master/0023_mergeKLists) | 困难
+[24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://github.com/cocowh/algorithm/tree/master/0024_swapPairs) | 中等
+
