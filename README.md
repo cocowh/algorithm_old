@@ -31,4 +31,6 @@
 [22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/cocowh/algorithm/tree/master/0022_generateParenthesis) | 中等
 [23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/cocowh/algorithm/tree/master/0023_mergeKLists) | 困难
 [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](https://github.com/cocowh/algorithm/tree/master/0024_swapPairs) | 中等
+[25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K 个一组翻转链表](https://github.com/cocowh/algorithm/tree/master/0025_reverseKGroup) | 困难
+[26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/cocowh/algorithm/tree/master/0026_removeDuplicates) | 简单
 
