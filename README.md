@@ -34,4 +34,5 @@
 [0025](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [K 个一组翻转链表](https://github.com/cocowh/algorithm/tree/master/0025_reverseKGroup) | 困难
 [0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/cocowh/algorithm/tree/master/0026_removeDuplicates) | 简单
 [0027](https://leetcode-cn.com/problems/remove-element/) | [移除元素](https://github.com/cocowh/algorithm/tree/master/0027_removeElement) | 简单
+[0028](https://leetcode-cn.com/problems/implement-strstr/) | [实现 strStr()](https://github.com/cocowh/algorithm/tree/master/0028_strStr) | 简单
 
