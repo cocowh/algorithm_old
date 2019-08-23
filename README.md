@@ -35,4 +35,5 @@
 [0026](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://github.com/cocowh/algorithm/tree/master/0026_removeDuplicates) | 简单
 [0027](https://leetcode-cn.com/problems/remove-element/) | [移除元素](https://github.com/cocowh/algorithm/tree/master/0027_removeElement) | 简单
 [0028](https://leetcode-cn.com/problems/implement-strstr/) | [实现 strStr()](https://github.com/cocowh/algorithm/tree/master/0028_strStr) | 简单
+[0029](https://leetcode-cn.com/problems/divide-two-integers/) | [两数相除](https://github.com/cocowh/algorithm/tree/master/0029_divide) | 中等
 
