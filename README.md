@@ -37,4 +37,5 @@
 [0028](https://leetcode-cn.com/problems/implement-strstr/) | [实现 strStr()](https://github.com/cocowh/algorithm/tree/master/0028_strStr) | 简单
 [0029](https://leetcode-cn.com/problems/divide-two-integers/) | [两数相除](https://github.com/cocowh/algorithm/tree/master/0029_divide) | 中等
 [0030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的子串](https://github.com/cocowh/algorithm/tree/master/0030_findSubstring) | 困难
+[0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/tree/master/0031_nextPermutation) | 中等
 
