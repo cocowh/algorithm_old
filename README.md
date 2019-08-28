@@ -39,5 +39,6 @@
 [0030](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的子串](https://github.com/cocowh/algorithm/tree/master/0030_findSubstring) | 困难
 [0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/tree/master/0031_nextPermutation) | 中等
 [0032](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://github.com/cocowh/algorithm/tree/master/0032_longestValidParentheses) | 困难
+[0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://github.com/cocowh/algorithm/tree/master/0033_search) | 中等
 
 
