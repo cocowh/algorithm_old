@@ -40,5 +40,6 @@
 [0031](https://leetcode-cn.com/problems/next-permutation/) | [下一个排列](https://github.com/cocowh/algorithm/tree/master/0031_nextPermutation) | 中等
 [0032](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](https://github.com/cocowh/algorithm/tree/master/0032_longestValidParentheses) | 困难
 [0033](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://github.com/cocowh/algorithm/tree/master/0033_search) | 中等
+[0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/cocowh/algorithm/tree/master/0034_searchRange) | 中等
 
 
