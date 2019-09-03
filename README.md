@@ -43,4 +43,6 @@
 [0034](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/cocowh/algorithm/tree/master/0034_searchRange) | 中等
 [0035](https://leetcode-cn.com/problems/search-insert-position/) | [搜索插入位置](https://github.com/cocowh/algorithm/tree/master/0035_searchInsert) | 简单
 [0036](https://leetcode-cn.com/problems/valid-sudoku/) | [有效的数独](https://github.com/cocowh/algorithm/tree/master/0036_isValidSudoku) | 中等
+[0037](https://leetcode-cn.com/problems/sudoku-solver/) | [解数独](https://github.com/cocowh/algorithm/tree/master/0037_solveSudoku) | 困难
+
 
