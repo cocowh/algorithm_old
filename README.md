@@ -44,5 +44,7 @@
 [0035](https://leetcode-cn.com/problems/search-insert-position/) | [搜索插入位置](https://github.com/cocowh/algorithm/tree/master/0035_searchInsert) | 简单
 [0036](https://leetcode-cn.com/problems/valid-sudoku/) | [有效的数独](https://github.com/cocowh/algorithm/tree/master/0036_isValidSudoku) | 中等
 [0037](https://leetcode-cn.com/problems/sudoku-solver/) | [解数独](https://github.com/cocowh/algorithm/tree/master/0037_solveSudoku) | 困难
+[0038](https://leetcode-cn.com/problems/count-and-say/) | [报数](https://github.com/cocowh/algorithm/tree/master/0038_countAndSay) | 简单
+
 
 
