@@ -48,3 +48,4 @@
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/tree/master/0039_combinationSum) | 中等
 [0058](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](https://github.com/cocowh/algorithm/tree/master/0058_lengthOfLastWord) | 简单
 [0066](https://leetcode-cn.com/problems/plus-one/) | [加一](https://github.com/cocowh/algorithm/tree/master/0066_plusOne) | 简单
+[0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/tree/master/0067_addBinary) | 简单
