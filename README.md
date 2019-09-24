@@ -51,3 +51,4 @@
 [0066](https://leetcode-cn.com/problems/plus-one/) | [加一](https://github.com/cocowh/algorithm/tree/master/0066_plusOne) | 简单
 [0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/tree/master/0067_addBinary) | 简单
 [0069](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](https://github.com/cocowh/algorithm/tree/master/0069_mySqrt) | 简单
+[0134](https://leetcode-cn.com/problems/gas-station/) | [加油站](https://github.com/cocowh/algorithm/tree/master/0134_canCompleteCircuit) | 中等
