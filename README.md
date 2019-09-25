@@ -53,6 +53,7 @@
 [0069](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](https://github.com/cocowh/algorithm/tree/master/0069_mySqrt) | 简单
 [0094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/cocowh/algorithm/tree/master/0094_inorderTraversal) | 中等
 [0134](https://leetcode-cn.com/problems/gas-station/) | [加油站](https://github.com/cocowh/algorithm/tree/master/0134_canCompleteCircuit) | 中等
+[0141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](https://github.com/cocowh/algorithm/tree/master/0141_hasCycle) | 简单
 [0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://github.com/cocowh/algorithm/tree/master/0144_preorderTraversal) | 中等
 [0146](https://leetcode-cn.com/problems/lru-cache/submissions/) | [LRU缓存机制](https://github.com/cocowh/algorithm/tree/master/0146_LRUCacheLRUCache) | 中等
 [0169](https://leetcode-cn.com/problems/majority-element/) | [求众数](https://github.com/cocowh/algorithm/tree/master/0169_majorityElement) | 简单
