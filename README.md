@@ -58,3 +58,4 @@
 [0146](https://leetcode-cn.com/problems/lru-cache/submissions/) | [LRU缓存机制](https://github.com/cocowh/algorithm/tree/master/0146_LRUCacheLRUCache) | 中等
 [0169](https://leetcode-cn.com/problems/majority-element/) | [求众数](https://github.com/cocowh/algorithm/tree/master/0169_majorityElement) | 简单
 [0283](https://leetcode-cn.com/problems/move-zeroes/) | [移动零](https://github.com/cocowh/algorithm/tree/master/0283_moveZeroes) | 简单
+[0287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [寻找重复数](https://github.com/cocowh/algorithm/tree/master/0287_findDuplicate) | 中等
