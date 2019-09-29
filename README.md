@@ -64,3 +64,4 @@
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [寻找重复数](https://github.com/cocowh/algorithm/tree/master/0287_findDuplicate) | 中等
 [0292](https://leetcode-cn.com/problems/nim-game/submissions/) | [Nim 游戏](https://github.com/cocowh/algorithm/tree/master/0292_canWinNim) | 简单
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/0342_isPowerOfFour) | 简单
+[0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/0343_integerBreak) | 中等
