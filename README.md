@@ -56,6 +56,7 @@
 [0086](https://leetcode-cn.com/problems/partition-list/) | [分隔链表](https://github.com/cocowh/algorithm/tree/master/0086_partition) | 中等
 [0092](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://github.com/cocowh/algorithm/tree/master/0092_reverseBetween) | 中等
 [0094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/cocowh/algorithm/tree/master/0094_inorderTraversal) | 中等
+[0125](https://leetcode-cn.com/problems/valid-palindrome/) | [验证回文串](https://github.com/cocowh/algorithm/tree/master/0125_isPalindrome) | 简单
 [0134](https://leetcode-cn.com/problems/gas-station/) | [加油站](https://github.com/cocowh/algorithm/tree/master/0134_canCompleteCircuit) | 中等
 [0136](https://leetcode-cn.com/problems/single-number/) | [只出现一次的数字](https://github.com/cocowh/algorithm/tree/master/0136_singleNumber) | 简单
 [0137](https://leetcode-cn.com/problems/single-number-ii/) | [只出现一次的数字 II](https://github.com/cocowh/algorithm/tree/master/0137_singleNumber) | 简单

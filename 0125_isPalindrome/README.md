@@ -1,0 +1,52 @@
+# [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+
+### 题目
+
+给定一个字符串，验证它是否是回文串，只考虑字母和数字字符，可以忽略字母的大小写。
+
+说明：本题中，我们将空字符串定义为有效的回文串。
+
+示例 1:
+
+>输入: "A man, a plan, a canal: Panama"  
+输出: true  
+示例 2:  
+
+>输入: "race a car"  
+输出: false
+
+### 解法
+
+左右移位比较
+
+```
+func isPalindrome(s string) bool {
+	s = strings.ToLower(s)
+	length := len(s)
+	if length <= 1 {
+		 return true
+	}
+	left,right := 0,length - 1
+	for left < right {
+		for !judgeEffectiveChar(s[left]) && left < right {
+			left++
+		}
+		for !judgeEffectiveChar(s[right]) && right > left{
+			right--
+		}
+		if s[left] != s[right] {
+			return false
+		}
+		left++
+		right--
+	}
+	return  true
+}
+
+func judgeEffectiveChar(b byte) bool {
+	if  ('a' <= b && b <= 'z') || ('0' <= b && b <= '9') {
+		return true
+	}
+	return false
+}
+```
