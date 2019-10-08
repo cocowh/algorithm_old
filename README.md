@@ -48,6 +48,7 @@
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/tree/master/0039_combinationSum) | 中等
 [0053](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/cocowh/algorithm/tree/master/0053_maxSubArray) | 简单
 [0058](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](https://github.com/cocowh/algorithm/tree/master/0058_lengthOfLastWord) | 简单
+[0062](https://leetcode-cn.com/problems/unique-paths/) | [不同路径](https://github.com/cocowh/algorithm/tree/master/0062_uniquePaths) | 中等
 [0066](https://leetcode-cn.com/problems/plus-one/) | [加一](https://github.com/cocowh/algorithm/tree/master/0066_plusOne) | 简单
 [0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/tree/master/0067_addBinary) | 简单
 [0069](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](https://github.com/cocowh/algorithm/tree/master/0069_mySqrt) | 简单
