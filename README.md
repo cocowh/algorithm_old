@@ -74,3 +74,4 @@
 [0292](https://leetcode-cn.com/problems/nim-game/submissions/) | [Nim 游戏](https://github.com/cocowh/algorithm/tree/master/0292_canWinNim) | 简单
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/0342_isPowerOfFour) | 简单
 [0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/0343_integerBreak) | 中等
+[1108](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [IP 地址无效化](https://github.com/cocowh/algorithm/tree/master/1108_defangIPaddr) | 简单
