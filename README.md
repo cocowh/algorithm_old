@@ -55,6 +55,7 @@
 [0067](https://leetcode-cn.com/problems/add-binary/) | [二进制求和](https://github.com/cocowh/algorithm/tree/master/0067_addBinary) | 简单
 [0069](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](https://github.com/cocowh/algorithm/tree/master/0069_mySqrt) | 简单
 [0070](https://leetcode-cn.com/problems/climbing-stairs/) | [爬楼梯](https://github.com/cocowh/algorithm/tree/master/0070_climbStairs) | 简单
+[0083](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://github.com/cocowh/algorithm/tree/master/0083_deleteDuplicates) | 简单
 [0086](https://leetcode-cn.com/problems/partition-list/) | [分隔链表](https://github.com/cocowh/algorithm/tree/master/0086_partition) | 中等
 [0092](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://github.com/cocowh/algorithm/tree/master/0092_reverseBetween) | 中等
 [0094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/cocowh/algorithm/tree/master/0094_inorderTraversal) | 中等
