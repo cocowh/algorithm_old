@@ -49,9 +49,11 @@
 
 ### 解法
 
+根据条件`在返回结果后，两个链表仍须保持原有的结构。`，不能直接使用头节点遍历。
+
 首先排序双层遍历，其时间复杂度O(m*n)
 
-其次想到hash存节点，时间复杂度O(max(n,m))，空间复杂度O(n+m-1)
+其次想到hash存节点，已存则代表有交点，时间复杂度O(max(n,m))，空间复杂度O(n+m-1)
 
 最后参考双指针表尾互指，[参考](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution/xiang-jiao-lian-biao-by-leetcode/)
 发现运行时间不理想，没考虑不相交多次互指情景，[参考](https://github.com/aQuaYi/LeetCode-in-Go/blob/master/Algorithms/0160.intersection-of-two-linked-lists/intersection-of-two-linked-lists.go)解法，加上互指状态位标记
