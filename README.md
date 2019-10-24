@@ -72,6 +72,7 @@
 [0146](https://leetcode-cn.com/problems/lru-cache/submissions/) | [LRU缓存机制](https://github.com/cocowh/algorithm/tree/master/0146_LRUCacheLRUCache) | 中等
 [0160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://github.com/cocowh/algorithm/tree/master/0160_getIntersectionNode) | 简单
 [0162](https://leetcode-cn.com/problems/find-peak-element/) | [寻找峰值](https://github.com/cocowh/algorithm/tree/master/0162_findPeakElement) | 中等
+[0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [两数之和 II - 输入有序数组](https://github.com/cocowh/algorithm/tree/master/0167_twoSum) | 简单
 [0169](https://leetcode-cn.com/problems/majority-element/) | [求众数](https://github.com/cocowh/algorithm/tree/master/0169_majorityElement) | 简单
 [0231](https://leetcode-cn.com/problems/power-of-two/) | [2的幂](https://github.com/cocowh/algorithm/tree/master/0231_isPowerOfTwo) | 简单
 [0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://github.com/cocowh/algorithm/tree/master/0232_MyQueue) | 简单
