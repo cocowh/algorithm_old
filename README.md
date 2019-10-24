@@ -76,6 +76,7 @@
 [0168](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Excel表列名称](https://github.com/cocowh/algorithm/tree/master/0168_convertToTitle) | 简单
 [0169](https://leetcode-cn.com/problems/majority-element/) | [求众数](https://github.com/cocowh/algorithm/tree/master/0169_majorityElement) | 简单
 [0171](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Excel表列序号](https://github.com/cocowh/algorithm/tree/master/0171_titleToNumber) | 简单
+[0172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [阶乘后的零](https://github.com/cocowh/algorithm/tree/master/0172_trailingZeroes) | 简单
 [0231](https://leetcode-cn.com/problems/power-of-two/) | [2的幂](https://github.com/cocowh/algorithm/tree/master/0231_isPowerOfTwo) | 简单
 [0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://github.com/cocowh/algorithm/tree/master/0232_MyQueue) | 简单
 [0260](https://leetcode-cn.com/problems/single-number-iii/) | [只出现一次的数字 III](https://github.com/cocowh/algorithm/tree/master/0260_singleNumber) | 中等
