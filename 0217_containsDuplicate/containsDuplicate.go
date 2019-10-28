@@ -12,7 +12,7 @@ func main() {
 func containsDuplicate(nums []int) bool {
 	m := make(map[int]bool, len(nums))
 	for _, v := range nums {
-		if _, ok := m[v]; ok {
+		if m[v] {
 			return true
 		} else {
 			m[v] = true
