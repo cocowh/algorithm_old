@@ -91,6 +91,7 @@
 [0231](https://leetcode-cn.com/problems/power-of-two/) | [2的幂](https://github.com/cocowh/algorithm/tree/master/0231_isPowerOfTwo) | 简单
 [0232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://github.com/cocowh/algorithm/tree/master/0232_MyQueue) | 简单
 [0234](https://leetcode-cn.com/problems/palindrome-linked-list/) | [回文链表](https://github.com/cocowh/algorithm/tree/master/0234_isPalindrome) | 简单
+[0235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [二叉搜索树的最近公共祖先](https://github.com/cocowh/algorithm/tree/master/0235_lowestCommonAncestor) | 简单
 [0260](https://leetcode-cn.com/problems/single-number-iii/) | [只出现一次的数字 III](https://github.com/cocowh/algorithm/tree/master/0260_singleNumber) | 中等
 [0283](https://leetcode-cn.com/problems/move-zeroes/) | [移动零](https://github.com/cocowh/algorithm/tree/master/0283_moveZeroes) | 简单
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [寻找重复数](https://github.com/cocowh/algorithm/tree/master/0287_findDuplicate) | 中等
