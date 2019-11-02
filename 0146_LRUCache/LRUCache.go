@@ -3,43 +3,42 @@ package main
 import "container/list"
 
 type LRUCache struct {
-	Size int
-	list *list.List
+	Size  int
+	list  *list.List
 	cache map[int]*list.Element
 }
 
 type Entry struct {
-	Key int
+	Key   int
 	Value int
 }
 
 func Constructor(capacity int) LRUCache {
 	instance := LRUCache{
-		Size:capacity,
-		list:list.New(),
-		cache:make(map[int]*list.Element),
+		Size:  capacity,
+		list:  list.New(),
+		cache: make(map[int]*list.Element),
 	}
 	return instance
 }
 
-
 func (this *LRUCache) Get(key int) int {
-	if this.cache ==  nil {
+	if this.cache == nil {
 		return -1
 	}
-	if e, ok := this.cache[key];ok {
+	if e, ok := this.cache[key]; ok {
 		this.list.MoveToFront(e)
 		return e.Value.(*Entry).Value
 	}
 	return -1
 }
 
-func (this *LRUCache) Put(key int, value int)  {
+func (this *LRUCache) Put(key int, value int) {
 	if this.cache == nil {
 		this.cache = make(map[int]*list.Element)
 		this.list = list.New()
 	}
-	if e, ok := this.cache[key];ok {
+	if e, ok := this.cache[key]; ok {
 		this.list.MoveToFront(e)
 		e.Value.(*Entry).Value = value
 		return

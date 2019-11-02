@@ -25,13 +25,13 @@ func (l *List) Len() int {
 }
 
 func (l *List) Front() *Node {
-	if l.len == 0{
+	if l.len == 0 {
 		return nil
 	}
 	return l.root.next
 }
 
-func (l *List) insert (e,at *Node) *Node {
+func (l *List) insert(e, at *Node) *Node {
 	n := at.next
 	at.next = e
 	e.prev = at
@@ -41,7 +41,7 @@ func (l *List) insert (e,at *Node) *Node {
 	return e
 }
 
-func (l *List) remove(e *Node)	*Node {
+func (l *List) remove(e *Node) *Node {
 	e.prev.next = e.next
 	e.next.prev = e.prev
 	e.next = nil
@@ -54,9 +54,9 @@ func (l *List) moveToBack(e *Node) {
 	if l.root.prev == e {
 		return
 	}
-	l.insert(l.remove(e),l.root.prev)
+	l.insert(l.remove(e), l.root.prev)
 }
 
 func (l *List) appendToBack(e *Node) {
-	l.insert(e,l.root.prev)
+	l.insert(e, l.root.prev)
 }
