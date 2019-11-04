@@ -1,15 +1,19 @@
-package sortAlg
+package main
 
 import (
 	"fmt"
 )
+
+func main() {
+	fastSort([]int{1, 0, 2, 9, 5})
+}
 
 func SortMain() {
 	var n int
 	fmt.Println("输入数组大小（n）：")
 	fmt.Scanf("%d", &n)
 	var arr []int
-	fmt.Printf("请依次输入%d个数（中间空格或换行）\n",n)
+	fmt.Printf("请依次输入%d个数（中间空格或换行）\n", n)
 	for index := 0; index < n; index++ {
 		var temp int
 		fmt.Scanf("%d", &temp)
@@ -27,7 +31,9 @@ func SortMain() {
 	fmt.Println("****冒泡排序****")
 	BubbleSort(arr)
 	fmt.Println("****冒泡排序****")
+	fastSort(arr)
 }
+
 //插入排序
 func InsertionSort(arr []int) {
 	len := len(arr)
@@ -36,8 +42,8 @@ func InsertionSort(arr []int) {
 	for i := 1; i < len; i++ {
 		temp := newArr[i]
 		j := i
-		for ;j > 0 && newArr[j -1] > temp; j-- {
-			newArr[j] = newArr[j - 1]
+		for ; j > 0 && newArr[j-1] > temp; j-- {
+			newArr[j] = newArr[j-1]
 		}
 		newArr[j] = temp
 		fmt.Printf("第%d次插入排序结果为：%v\n", i, newArr)
@@ -47,7 +53,7 @@ func InsertionSort(arr []int) {
 //归并排序
 func MergeSort(arr []int) []int {
 	len := len(arr)
-	if len <= 1{
+	if len <= 1 {
 		return arr
 	}
 	num := len / 2
@@ -55,8 +61,9 @@ func MergeSort(arr []int) []int {
 	right := MergeSort(arr[num:])
 	return merge(left, right)
 }
+
 //合并
-func merge(left, right []int)(result []int)  {
+func merge(left, right []int) (result []int) {
 	l, r := 0, 0
 	for l < len(left) && r < len(right) {
 		if left[l] < right[r] {
@@ -69,7 +76,7 @@ func merge(left, right []int)(result []int)  {
 	}
 	result = append(result, left[l:]...)
 	result = append(result, right[r:]...)
-	fmt.Printf("每次的归并输出堆：%v\n",result)
+	fmt.Printf("每次的归并输出堆：%v\n", result)
 	return
 }
 
@@ -78,13 +85,13 @@ func BubbleSort(arr []int) {
 	len := len(arr)
 	newArr := make([]int, len)
 	copy(newArr, arr)
-	for i := 1; i <len; i++ {
+	for i := 1; i < len; i++ {
 		flag := false
 		for j := 1; j < len; j++ {
 			var key = newArr[j]
-			if newArr[j - 1]  > newArr[j] {
-				newArr[j] = newArr[j - 1]
-				newArr[j - 1] = key
+			if newArr[j-1] > newArr[j] {
+				newArr[j] = newArr[j-1]
+				newArr[j-1] = key
 				flag = true
 			}
 		}
@@ -95,3 +102,37 @@ func BubbleSort(arr []int) {
 	}
 }
 
+//快排
+
+func fastSort(arr []int) {
+	left, right := 0, len(arr)-1
+	fastHelper(arr, left, right)
+	fmt.Println(arr)
+}
+
+func fastHelper(arr []int, left, right int) {
+	p, temp, i, j := left, arr[left], left, right
+	for i <= j {
+		for j >= p && arr[j] >= temp {
+			j--
+		}
+		if j >= p {
+			arr[p] = arr[j]
+			p = j
+		}
+		for i <= p && arr[i] <= temp {
+			i++
+		}
+		if i <= p {
+			arr[p] = arr[i]
+			p = i
+		}
+		arr[p] = temp
+		if p-left > 1 {
+			fastHelper(arr, left, p-1)
+		}
+		if right-p > 1 {
+			fastHelper(arr, p+1, right)
+		}
+	}
+}
