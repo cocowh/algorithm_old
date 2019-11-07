@@ -46,6 +46,7 @@
 [0037](https://leetcode-cn.com/problems/sudoku-solver/) | [解数独](https://github.com/cocowh/algorithm/tree/master/0037_solveSudoku) | 困难
 [0038](https://leetcode-cn.com/problems/count-and-say/) | [报数](https://github.com/cocowh/algorithm/tree/master/0038_countAndSay) | 简单
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/tree/master/0039_combinationSum) | 中等
+[0039](https://leetcode-cn.com/problems/combination-sum-ii/) | [组合总和 II](https://github.com/cocowh/algorithm/tree/master/0040_combinationSum2) | 中等
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/tree/master/0046_permute) | 中等
 [0050](https://leetcode-cn.com/problems/powx-n/) | [Pow(x, n)](https://github.com/cocowh/algorithm/tree/master/0050_myPow) | 中等
 [0053](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/cocowh/algorithm/tree/master/0053_maxSubArray) | 简单
