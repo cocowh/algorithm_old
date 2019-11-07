@@ -48,6 +48,7 @@
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/tree/master/0039_combinationSum) | 中等
 [0039](https://leetcode-cn.com/problems/combination-sum-ii/) | [组合总和 II](https://github.com/cocowh/algorithm/tree/master/0040_combinationSum2) | 中等
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/tree/master/0046_permute) | 中等
+[0047](https://leetcode-cn.com/problems/permutations-ii/) | [全排列 II](https://github.com/cocowh/algorithm/tree/master/0047_permuteUnique) | 中等
 [0050](https://leetcode-cn.com/problems/powx-n/) | [Pow(x, n)](https://github.com/cocowh/algorithm/tree/master/0050_myPow) | 中等
 [0053](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/cocowh/algorithm/tree/master/0053_maxSubArray) | 简单
 [0058](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](https://github.com/cocowh/algorithm/tree/master/0058_lengthOfLastWord) | 简单
