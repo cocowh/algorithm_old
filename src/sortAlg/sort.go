@@ -5,7 +5,10 @@ import (
 )
 
 func main() {
-	fastSort([]int{1, 0, 2, 9, 5})
+	nums := []int{9,4,1,5,3,8}
+	//fastSort([]int{1, 0, 2, 9, 5})
+	sortByBigHeap(nums)
+	fmt.Println(nums)
 }
 
 func SortMain() {
@@ -134,5 +137,49 @@ func fastHelper(arr []int, left, right int) {
 		if right-p > 1 {
 			fastHelper(arr, p+1, right)
 		}
+	}
+}
+
+//最大堆排序
+
+func sortByBigHeap(nums []int) {
+	maxHeapify(nums)
+	fmt.Println(nums)
+	for i := len(nums) - 1; i > 0; i-- {
+		nums[0], nums[i] = nums[i], nums[0]
+		heapify(nums, 0, i)
+	}
+}
+
+func maxHeapify(nums []int) {
+	for i := 0; i < len(nums); i++ {
+		curIndex := i
+		fatIndex := (curIndex - 1) / 2
+		for nums[curIndex] > nums[fatIndex] {
+			nums[curIndex], nums[fatIndex] = nums[fatIndex], nums[curIndex]
+			curIndex = fatIndex
+			fatIndex = (curIndex - 1) / 2
+		}
+	}
+}
+
+func heapify(nums []int, index, size int) {
+	left, right := 2*index+1, 2*index+2
+	for left < size {
+		maxNumIndex := 0
+		if nums[left] < nums[right] && right < size {
+			maxNumIndex = right
+		} else {
+			maxNumIndex = left
+		}
+		if nums[index] > nums[maxNumIndex] {
+			maxNumIndex = index
+		}
+		if index == maxNumIndex {
+			break
+		}
+		nums[maxNumIndex], nums[index] = nums[index], nums[maxNumIndex]
+		index = 2*index + 1
+		right = 2*index + 2
 	}
 }
