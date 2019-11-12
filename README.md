@@ -66,6 +66,7 @@
 [0094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/cocowh/algorithm/tree/master/0094_inorderTraversal) | 中等
 [0096](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://github.com/cocowh/algorithm/tree/master/0096_numTrees) | 中等
 [0100](https://leetcode-cn.com/problems/same-tree/) | [相同的树](https://github.com/cocowh/algorithm/tree/master/0100_isSameTree) | 简单
+[0101](https://leetcode-cn.com/problems/symmetric-tree/) | [对称二叉树](https://github.com/cocowh/algorithm/tree/master/0101_isSymmetric) | 简单
 [0118](https://leetcode-cn.com/problems/pascals-triangle/) | [杨辉三角](https://github.com/cocowh/algorithm/tree/master/0118_generate) | 简单
 [0119](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [杨辉三角II](https://github.com/cocowh/algorithm/tree/master/0119_getRow) | 简单
 [0125](https://leetcode-cn.com/problems/valid-palindrome/) | [验证回文串](https://github.com/cocowh/algorithm/tree/master/0125_isPalindrome) | 简单
