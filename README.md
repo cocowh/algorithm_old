@@ -53,6 +53,7 @@
 [0050](https://leetcode-cn.com/problems/powx-n/) | [Pow(x, n)](https://github.com/cocowh/algorithm/tree/master/0050_myPow) | 中等
 [0053](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/cocowh/algorithm/tree/master/0053_maxSubArray) | 简单
 [0054](https://leetcode-cn.com/problems/spiral-matrix/) | [螺旋矩阵](https://github.com/cocowh/algorithm/tree/master/0054_spiralOrder) | 中等
+[0055](https://leetcode-cn.com/problems/jump-game/) | [跳跃游戏](https://github.com/cocowh/algorithm/tree/master/0055_canJump) | 中等
 [0058](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](https://github.com/cocowh/algorithm/tree/master/0058_lengthOfLastWord) | 简单
 [0061](https://leetcode-cn.com/problems/rotate-list/) | [旋转链表](https://github.com/cocowh/algorithm/tree/master/0061_rotateRight) | 中等
 [0062](https://leetcode-cn.com/problems/unique-paths/) | [不同路径](https://github.com/cocowh/algorithm/tree/master/0062_uniquePaths) | 中等
