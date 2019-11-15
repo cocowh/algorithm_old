@@ -47,6 +47,7 @@
 [0038](https://leetcode-cn.com/problems/count-and-say/) | [报数](https://github.com/cocowh/algorithm/tree/master/0038_countAndSay) | 简单
 [0039](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](https://github.com/cocowh/algorithm/tree/master/0039_combinationSum) | 中等
 [0039](https://leetcode-cn.com/problems/combination-sum-ii/) | [组合总和 II](https://github.com/cocowh/algorithm/tree/master/0040_combinationSum2) | 中等
+[0045](https://leetcode-cn.com/problems/jump-game-ii/) | [跳跃游戏 II](https://github.com/cocowh/algorithm/tree/master/0045_jump) | 困难
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/tree/master/0046_permute) | 中等
 [0047](https://leetcode-cn.com/problems/permutations-ii/) | [全排列 II](https://github.com/cocowh/algorithm/tree/master/0047_permuteUnique) | 中等
 [0048](https://leetcode-cn.com/problems/rotate-image/) | [旋转图像](https://github.com/cocowh/algorithm/tree/master/0048_rotate) | 中等
