@@ -51,6 +51,7 @@
 [0046](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/cocowh/algorithm/tree/master/0046_permute) | 中等
 [0047](https://leetcode-cn.com/problems/permutations-ii/) | [全排列 II](https://github.com/cocowh/algorithm/tree/master/0047_permuteUnique) | 中等
 [0048](https://leetcode-cn.com/problems/rotate-image/) | [旋转图像](https://github.com/cocowh/algorithm/tree/master/0048_rotate) | 中等
+[0049](https://leetcode-cn.com/problems/group-anagrams/) | [字母异位词分组](https://github.com/cocowh/algorithm/tree/master/0049_groupAnagrams) | 中等
 [0050](https://leetcode-cn.com/problems/powx-n/) | [Pow(x, n)](https://github.com/cocowh/algorithm/tree/master/0050_myPow) | 中等
 [0053](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](https://github.com/cocowh/algorithm/tree/master/0053_maxSubArray) | 简单
 [0054](https://leetcode-cn.com/problems/spiral-matrix/) | [螺旋矩阵](https://github.com/cocowh/algorithm/tree/master/0054_spiralOrder) | 中等
