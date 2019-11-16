@@ -72,6 +72,7 @@
 [0092](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://github.com/cocowh/algorithm/tree/master/0092_reverseBetween) | 中等
 [0094](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](https://github.com/cocowh/algorithm/tree/master/0094_inorderTraversal) | 中等
 [0096](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://github.com/cocowh/algorithm/tree/master/0096_numTrees) | 中等
+[0098](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [验证二叉搜索树](https://github.com/cocowh/algorithm/tree/master/0098_isValidBST) | 中等
 [0100](https://leetcode-cn.com/problems/same-tree/) | [相同的树](https://github.com/cocowh/algorithm/tree/master/0100_isSameTree) | 简单
 [0101](https://leetcode-cn.com/problems/symmetric-tree/) | [对称二叉树](https://github.com/cocowh/algorithm/tree/master/0101_isSymmetric) | 简单
 [0102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://github.com/cocowh/algorithm/tree/master/0102_levelOrder) | 中等
