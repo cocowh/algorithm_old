@@ -117,6 +117,7 @@
 [0292](https://leetcode-cn.com/problems/nim-game/submissions/) | [Nim 游戏](https://github.com/cocowh/algorithm/tree/master/0292_canWinNim) | 简单
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/0342_isPowerOfFour) | 简单
 [0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/0343_integerBreak) | 中等
+[0404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [左叶子之和](https://github.com/cocowh/algorithm/tree/master/0404_sumOfLeftLeaves) | 简单
 [0415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/cocowh/algorithm/tree/master/0415_addStrings) | 简单
 [0543](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [二叉树的直径](https://github.com/cocowh/algorithm/tree/master/0543_diameterOfBinaryTree) | 简单
 [0575](https://leetcode-cn.com/problems/distribute-candies/) | [分糖果](https://github.com/cocowh/algorithm/tree/master/0575_distributeCandies) | 简单
