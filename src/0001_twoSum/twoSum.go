@@ -1,5 +1,10 @@
-package _001_twoSum
+package main
 
+import "fmt"
+
+func main() {
+	fmt.Println(twoSum2([]int{1,2,3,9,3},10))
+}
 
 //解法一
 func twoSum1(nums []int, target int) []int {
