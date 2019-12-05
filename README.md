@@ -77,6 +77,7 @@
 [0101](https://leetcode-cn.com/problems/symmetric-tree/) | [对称二叉树](https://github.com/cocowh/algorithm/tree/master/src/0101_isSymmetric) | 简单
 [0102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://github.com/cocowh/algorithm/tree/master/src/0102_levelOrder) | 中等
 [0104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最大深度](https://github.com/cocowh/algorithm/tree/master/src/0104_maxDepth) | 简单
+[0110](https://leetcode-cn.com/problems/balanced-binary-tree/) | [平衡二叉树](https://github.com/cocowh/algorithm/tree/master/src/0110_isBalanced) | 简单
 [0111](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最小深度](https://github.com/cocowh/algorithm/tree/master/src/0111_minDepth) | 简单
 [0112](https://leetcode-cn.com/problems/path-sum/) | [路径总和](https://github.com/cocowh/algorithm/tree/master/src/0112_hasPathSum) | 简单
 [0113](https://leetcode-cn.com/problems/path-sum-ii/) | [路径总和 II](https://github.com/cocowh/algorithm/tree/master/src/0113_pathSum) | 中等
