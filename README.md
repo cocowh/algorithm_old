@@ -120,6 +120,7 @@
 [0292](https://leetcode-cn.com/problems/nim-game/submissions/) | [Nim 游戏](https://github.com/cocowh/algorithm/tree/master/src/0292_canWinNim) | 简单
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/src/0342_isPowerOfFour) | 简单
 [0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/src/0343_integerBreak) | 中等
+[0389](https://leetcode-cn.com/problems/find-the-difference/) | [找不同](https://github.com/cocowh/algorithm/tree/master/src/0389_findTheDifference) | 简单
 [0404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [左叶子之和](https://github.com/cocowh/algorithm/tree/master/src/0404_sumOfLeftLeaves) | 简单
 [0415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/cocowh/algorithm/tree/master/src/0415_addStrings) | 简单
 [0515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://github.com/cocowh/algorithm/tree/master/src/0515_largestValues) | 中等
