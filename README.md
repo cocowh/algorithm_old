@@ -121,6 +121,7 @@
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/src/0342_isPowerOfFour) | 简单
 [0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/src/0343_integerBreak) | 中等
 [0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/tree/master/src/0383_canConstruct) | 简单
+[0387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [字符串中的第一个唯一字符](https://github.com/cocowh/algorithm/tree/master/src/0387_firstUniqChar) | 简单
 [0389](https://leetcode-cn.com/problems/find-the-difference/) | [找不同](https://github.com/cocowh/algorithm/tree/master/src/0389_findTheDifference) | 简单
 [0404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [左叶子之和](https://github.com/cocowh/algorithm/tree/master/src/0404_sumOfLeftLeaves) | 简单
 [0415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/cocowh/algorithm/tree/master/src/0415_addStrings) | 简单
