@@ -129,6 +129,7 @@
 [0515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://github.com/cocowh/algorithm/tree/master/src/0515_largestValues) | 中等
 [0520](https://leetcode-cn.com/problems/detect-capital/) | [检测大写字母](https://github.com/cocowh/algorithm/tree/master/src/0520_detectCapitalUse) | 简单
 [0521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [最长特殊序列 Ⅰ](https://github.com/cocowh/algorithm/tree/master/src/0521_findLUSlength) | 简单
+[0530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [二叉搜索树的最小绝对差](https://github.com/cocowh/algorithm/tree/master/src/0530_getMinimumDifference) | 简单
 [0543](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [二叉树的直径](https://github.com/cocowh/algorithm/tree/master/src/0543_diameterOfBinaryTree) | 简单
 [0575](https://leetcode-cn.com/problems/distribute-candies/) | [分糖果](https://github.com/cocowh/algorithm/tree/master/src/0575_distributeCandies) | 简单
 [1108](https://leetcode-cn.com/problems/defanging-an-ip-address/) | [IP 地址无效化](https://github.com/cocowh/algorithm/tree/master/src/1108_defangIPaddr) | 简单
