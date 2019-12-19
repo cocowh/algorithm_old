@@ -119,6 +119,7 @@
 [0287](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [寻找重复数](https://github.com/cocowh/algorithm/tree/master/src/0287_findDuplicate) | 中等
 [0290](https://leetcode-cn.com/problems/word-pattern/) | [单词规律](https://github.com/cocowh/algorithm/tree/master/src/0290_wordPattern) | 简单
 [0292](https://leetcode-cn.com/problems/nim-game/submissions/) | [Nim 游戏](https://github.com/cocowh/algorithm/tree/master/src/0292_canWinNim) | 简单
+[0299](https://leetcode-cn.com/problems/bulls-and-cows/) | [猜数字游戏](https://github.com/cocowh/algorithm/tree/master/src/0299_getHint) | 简单
 [0342](https://leetcode-cn.com/problems/power-of-four/) | [4的幂](https://github.com/cocowh/algorithm/tree/master/src/0342_isPowerOfFour) | 简单
 [0343](https://leetcode-cn.com/problems/integer-break/) | [整数拆分](https://github.com/cocowh/algorithm/tree/master/src/0343_integerBreak) | 中等
 [0383](https://leetcode-cn.com/problems/ransom-note/) | [赎金信](https://github.com/cocowh/algorithm/tree/master/src/0383_canConstruct) | 简单
