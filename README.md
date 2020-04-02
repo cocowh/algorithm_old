@@ -89,7 +89,7 @@
 [0137](https://leetcode-cn.com/problems/single-number-ii/) | [只出现一次的数字 II](https://github.com/cocowh/algorithm/tree/master/src/0137_singleNumber) | 简单
 [0141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](https://github.com/cocowh/algorithm/tree/master/src/0141_hasCycle) | 简单
 [0144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://github.com/cocowh/algorithm/tree/master/src/0144_preorderTraversal) | 中等
-[0146](https://leetcode-cn.com/problems/lru-cache/submissions/) | [LRU缓存机制](https://github.com/cocowh/algorithm/tree/master/src/0146_LRUCacheLRUCache) | 中等
+[0146](https://leetcode-cn.com/problems/lru-cache/submissions/) | [LRU缓存机制](https://github.com/cocowh/algorithm/tree/master/src/0146_LRUCache) | 中等
 [0160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://github.com/cocowh/algorithm/tree/master/src/0160_getIntersectionNode) | 简单
 [0162](https://leetcode-cn.com/problems/find-peak-element/) | [寻找峰值](https://github.com/cocowh/algorithm/tree/master/src/0162_findPeakElement) | 中等
 [0167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) | [两数之和 II - 输入有序数组](https://github.com/cocowh/algorithm/tree/master/src/0167_twoSum) | 简单
