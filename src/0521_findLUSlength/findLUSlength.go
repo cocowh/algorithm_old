@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(findLUSlength("a","ab"))
+	fmt.Println(findLUSlength("a", "ab"))
 }
 
 func findLUSlength(a string, b string) int {

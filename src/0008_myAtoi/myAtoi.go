@@ -5,10 +5,9 @@ import (
 	"strings"
 )
 
-
 func myAtoi(str string) int {
 
-	str = strings.Trim(str," ")
+	str = strings.Trim(str, " ")
 	len := len(str)
 	if len == 0 || str == "" {
 		return 0
@@ -16,7 +15,7 @@ func myAtoi(str string) int {
 	i := 0
 	result := 0
 	flag := true
-	if str[i] == '+'{
+	if str[i] == '+' {
 		i++
 	} else if str[i] == '-' {
 		i++
@@ -27,13 +26,13 @@ func myAtoi(str string) int {
 	count := 0
 	for ; i < len; i++ {
 		if str[i] >= '0' && str[i] <= '9' {
-			result = result * 10 + int(str[i]) - int('0')
+			result = result*10 + int(str[i]) - int('0')
 			if result != 0 {
 				count++
 			}
 			if count > 10 {
-				if  flag {
-					return  math.MaxInt32
+				if flag {
+					return math.MaxInt32
 				} else {
 					return math.MinInt32
 				}

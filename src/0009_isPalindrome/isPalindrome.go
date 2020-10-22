@@ -13,7 +13,7 @@ func isPalindrome(x int) bool {
 		temp /= 10
 		reverse = reverse*10 + rem
 	}
-	if reverse ^ x == 0 {
+	if reverse^x == 0 {
 		return true
 	} else {
 		return false
